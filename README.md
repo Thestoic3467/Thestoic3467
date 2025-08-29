@@ -71,12 +71,10 @@ Here are some ideas to get you started:
 </p>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TheStoic3467&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TheStoic3467&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=TheStoic3467&theme=radical&_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=TheStoic3467&theme=radical&hide_border=false)
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
 <br/>
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=TheStoic3467&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ![views since 2023/06/14](https://visitor-badge-deno.deno.dev/thestoic3467.thestoic3467.svg)
