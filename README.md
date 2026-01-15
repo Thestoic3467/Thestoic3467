@@ -1,24 +1,96 @@
-# 💫 About Me:
-🔭 I’m currently working on<br><br>Building backend engineering fundamentals before frameworks<br><br>Deepening understanding of HTTP, APIs, databases, and Linux-based systems<br><br>Laying the groundwork for cloud-native backend systems (AWS-oriented)<br><br>👯 I’m looking to collaborate on<br><br>Small backend-focused learning builds (APIs, services, system components)<br><br>Open-source repos that emphasize clarity, correctness, and reliability<br><br>Documentation or tooling that improves developer workflows<br><br>🤝 I’m looking for help with<br><br>Backend architecture decisions and trade-offs<br><br>Understanding real-world cloud failure modes<br><br>Reviewing backend design choices before scaling or cloud deployment<br><br>🌱 I’m currently learning<br><br>Backend fundamentals: request lifecycles, data modeling, transactions<br><br>Linux internals relevant to servers (processes, networking, permissions)<br><br>Cloud primitives: compute, storage, networking, IAM<br><br>Containers and deployment basics (Docker-focused)<br><br>💬 Ask me about<br><br>Backend vs cloud responsibility boundaries<br><br>Why DevOps is an outcome, not a job title<br><br>Trade-offs in system design before premature scaling<br><br>⚡ Fun fact<br><br>I deliberately avoid tools until I understand the problem they were invented to solve
+# 🧑‍💻 Aryan Bokde
 
+**`Backend Engineering | Cloud & DevOps (Foundational Focus)`**
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Fastlane](https://img.shields.io/badge/fastlane-%2382bd4e.svg?style=for-the-badge&logo=fastlane&logoColor=black) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=TheStoic3467&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=TheStoic3467&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TheStoic3467&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+I am currently building a strong foundation in **backend engineering**, with a growing interest in **cloud-based systems and DevOps practices**.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=TheStoic3467&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+My focus is on understanding how systems work at a fundamental level — APIs, databases, Linux servers, and cloud infrastructure — before moving to advanced tooling or large-scale architectures. I prefer learning things in a structured and practical manner rather than rushing into frameworks or buzzwords.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=TheStoic3467&limit=5&theme=dark&combine_all_yearly_contributions=true)
+At this stage, I am deliberately prioritising **clarity, correctness, and fundamentals**.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=TheStoic3467&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- KEEP ALL BADGES / STICKERS HERE EXACTLY AS THEY ARE -->
+
+<p align="left">
+  <!-- Your existing YouTube / GitHub / stats badges stay unchanged -->
+</p>
+
+---
+
+### 🔭 I’m currently working on
+- Strengthening backend fundamentals (API design, request handling, data modeling)
+- Understanding Linux-based server environments
+- Preparing for cloud-oriented backend development
+
+---
+
+### 🌱 I’m currently learning
+- Backend concepts:
+  - HTTP and REST APIs
+  - Authentication basics
+  - Database design, indexing, and transactions
+- Databases:
+  - PostgreSQL
+  - SQLite (local development)
+- Systems:
+  - Linux (processes, networking, permissions)
+- Cloud fundamentals:
+  - AWS compute, storage, networking, and IAM
+- Containers:
+  - Docker basics for backend deployment
+
+---
+
+### 🧰 Languages and Tools (current focus)
+
+<!-- KEEP ALL ICONS EXACTLY AS THEY ARE -->
+
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<br />
+
+---
+
+### 👯 I’m looking to collaborate on
+- Beginner to intermediate backend projects
+- Small APIs or services where design decisions matter
+- Open-source projects with a focus on clean code and documentation
+
+---
+
+### 🤝 I’m looking for help with
+- Backend architecture and design reviews
+- Practical cloud architecture choices
+- Understanding how real production systems handle failures and scaling
+
+---
+
+### 💬 Ask me about
+- Backend fundamentals
+- Learning paths for cloud and DevOps roles
+- Trade-offs between simplicity and scalability
+
+---
+
+### ⚡ Personal note
+I am intentionally building my fundamentals first and will add advanced tools only after gaining sufficient hands-on experience.
+
+---
+
+### 📊 Stats
+
+<!-- KEEP YOUR EXISTING GITHUB STATS / STREAK CARDS HERE -->
