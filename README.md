@@ -1,6 +1,6 @@
 # ☁️ Aryan Bokde
 
-**Associate Cloud Engineer | DevOps Enthusiast | Problem Solver**
+**Aspiring Cloud Engineer | DevOps Enthusiast | Problem Solver**
 
 I am a Cloud Engineer and recent Computer Science graduate (Class of 2025) dedicated to mastering the art of scalable infrastructure. For the last 6 months, I’ve been bridging the gap between academic theory and production-grade cloud environments. I don't just click buttons in a console; I write code that builds worlds. I’m currently focused on automating the boring stuff and building resilient CI/CD pipelines.
 
